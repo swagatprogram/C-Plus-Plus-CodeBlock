@@ -1,0 +1,9 @@
+https://www.avg.com/en/signal/how-to-speed-up-boot-time-on-your-pc-or-laptop (Boot Laptop faster)
+
+https://www.geeksforgeeks.org/cpp-program-to-swap-two-numbers/
+
+https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-interview-questions
+
+https://www.scaler.com/topics/cpp/
+
+https://www.scaler.com/topics/cpp/type-conversion-in-cpp/ (Pending)
